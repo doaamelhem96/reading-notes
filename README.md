@@ -22,6 +22,8 @@ Here are the Markdown features I've used to structure this page:
 - Level 1 and level 2 headings
 - Paragraphs
 - Lists(***ol && li** types of Lists)
-- **Bold** and *italic* text formatting
+- **Bold** and *italic* text formatting.
+-------
 - Horizontal rules.
+*******
 - Insert an Modules-image.
