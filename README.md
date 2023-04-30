@@ -15,7 +15,7 @@ Here are the courses I am currently taking:
 6. **Finall-Project.**
 *********
 ![Modules picture](ltuc.png)
-
+*****************
 ## Markdown Features Used
 Here are the Markdown features I've used to structure this page:
 
