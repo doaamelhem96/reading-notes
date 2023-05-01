@@ -1,6 +1,5 @@
 
-
-![lcmd IMG](Duaa2.jpg)
+![lcmd IMG](Duaa.jpg)
 
  # reading-notes
 
