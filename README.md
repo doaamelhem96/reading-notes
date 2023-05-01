@@ -1,8 +1,15 @@
 # reading-notes
 
-This website is a collection of notes and summaries for the various courses I am taking. It serves as a helpful resource for me to review key concepts and ideas from each course, and may also be useful for others who are interested in the topics covered.
+This a reading-notes main page is a collection of notes and summaries for the various courses I am taking now,  then you can watch another courses that about what I taked, It serves as a helpful resource for me to review key concepts and ideas from each course, and may also be useful for others who are interested in the topics covered.
 
-## Courses
+|Class |Reading-Notes|
+|---------|--------|
+|Class 0|Pre Work|
+|Class 1|row1,column2|
+|Class 2|row1,column2|
+|Class 3|row1,column2|
+|Class 4|row1,column2|
+## Prep-Courses 
 -------------------------
 Here are the courses I am currently taking:
 
@@ -16,6 +23,7 @@ Here are the courses I am currently taking:
 *********
 ![Modules picture](ltuc.png)
 *****************
+
 ## Markdown Features Used
 Here are the Markdown features I've used to structure this page:
 
