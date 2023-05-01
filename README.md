@@ -3,7 +3,7 @@
 
  # reading-notes
 
-    This a reading-notes main page is a collection of notes and summaries for the various courses I am taking now, then you can see another courses that about what I taked, It serves as a helpful resource for me to review key concepts and ideas from each course, and may also be useful for others who are interested in the topics covered.
+This a reading-notes main page is a collection of notes and summaries for the various courses I am taking now, then you can see another courses that about what I taked, It serves as a helpful resource for me to review key concepts and ideas from each course, and may also be useful for others who are interested in the topics covered.
 ****
 |Class |Reading-Notes|
 |---------|--------|
