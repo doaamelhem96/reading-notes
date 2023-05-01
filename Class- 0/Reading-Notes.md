@@ -4,7 +4,7 @@ This a reading-notes for class-0 page is a collection of notes and summaries for
 **************
 |Class |Reading-Notes|
 |---------|--------|
-|Data Structure |[ Prework Data Structure](/Data%20SStructure-Notes.docx)|
+|Data Structure |[ Prework Data Structure](/Data-Structure.docx)|
 |Class 1|row1,column2|
 |Class 2|row1,column2|
 |Class 3|row1,column2|
