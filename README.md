@@ -1,14 +1,19 @@
-# reading-notes
 
-This a reading-notes main page is a collection of notes and summaries for the various courses I am taking now,  then you can watch another courses that about what I taked, It serves as a helpful resource for me to review key concepts and ideas from each course, and may also be useful for others who are interested in the topics covered.
 
+![lcmd IMG](Duaa2.jpg)
+
+ # reading-notes
+
+    This a reading-notes main page is a collection of notes and summaries for the various courses I am taking now, then you can see another courses that about what I taked, It serves as a helpful resource for me to review key concepts and ideas from each course, and may also be useful for others who are interested in the topics covered.
+****
 |Class |Reading-Notes|
 |---------|--------|
-|Class 0|Pre Work|
-|Class 1|row1,column2|
-|Class 2|row1,column2|
-|Class 3|row1,column2|
-|Class 4|row1,column2|
+|Class 0|[Pre Work](./Class-0)|
+|Class 1||
+|Class 2||
+|Class 3||
+|Class 4||
+***********
 ## Prep-Courses 
 -------------------------
 Here are the courses I am currently taking:
