@@ -1,6 +1,6 @@
 # reading-notes
 
-This a reading-notes for class-0 page is a collection of notes and summaries for the various Notes I am taking now and previous main Python classes.
+This a reading-notes for class-0 page is a collection of notes and summaries for the various Notes.
 **************
 |Topics |Reading-Notes-docx File|Reading-Notes-md File|
 |-------|----------------------|---------|
