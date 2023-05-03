@@ -8,6 +8,14 @@ look at the below picture
 now you can find the difference between module and pakage
 ![](module.jpg)
 *******
+key points of positive for modularity:
+1. **Simplicity**
+2. **Maintainability**
+3. **Reuesability**
+4. **Scoping**
+
+
+****
 To create a module, you simply create **a .py file** and put your Python code in it. You can then **import the module in other Python programs using the import statement**. For example, if you have a module named **my_module.py**, you can import it in another program like this:
 
 import my_module
@@ -24,6 +32,9 @@ from my_module import my_function, my_variable
 -----
 the previous way handle any mistake when you import an module in any package.
 ****
+**To search for any module you can use:**
+**the name of module .path**
+----
 # ## Things I want to know more about
 
 
