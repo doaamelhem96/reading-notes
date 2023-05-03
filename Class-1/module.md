@@ -30,7 +30,12 @@ To create a package, you need to create a directory with an __init__.py file in 
 
 from my_module import my_function, my_variable
 -----
-the previous way handle any mistake when you import an module in any package.
+
+the way handle any mistake when you import an module in any package.
+insert
+_init_.py
+and in directory type
+_init_.py
 ****
 **To search for any module you can use:**
 **the name of module .path**
