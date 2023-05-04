@@ -17,4 +17,10 @@
 1. [SQL Bolt] (https://sqlbolt.com).
  2. also you can use :
   [cheat-sheet-SQL]
-  (https://www.sqltutorial.org/sql-cheat-sheet)
+  ![]()
+  ![]()
+  ![]()
+  ![]()
+  ![]()
+  ![]()
+
