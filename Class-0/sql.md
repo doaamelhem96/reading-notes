@@ -17,10 +17,9 @@
 1. [SQL Bolt] (https://sqlbolt.com).
  2. also you can use :
   [cheat-sheet-SQL]
-  ![]()
-  ![]()
-  ![]()
-  ![]()
-  ![]()
-  ![]()
+ 
+ *********
+
+ # Link to Bolt-Sql Gaming -screen shoot:
+ [Link to Bolt-Sql Gaming -screen shoot](sqlbolt/boltsql.md)
 
