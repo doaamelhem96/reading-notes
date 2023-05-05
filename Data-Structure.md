@@ -1,7 +1,7 @@
 ************
 
 
-![Data IMG](./img/Data.png)
+![Data IMG](/Data.png)
 
 *****************
 When deciding which data structure to use for solving a particular problem, it is important to recognize that no single data structure can optimally solve all problems.Thus, the selection of the most appropriate data structure should depend on:
