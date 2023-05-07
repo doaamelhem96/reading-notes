@@ -10,3 +10,11 @@ Here's an example of using the with statement to open a file and read its conten
 In the above code, the file is **automatically** closed when the block of code inside the **with statement is finished**, ***regardless*** of whether an exception occurs or not. This helps in managing resources efficiently and avoiding resource leaks.
 *****
 # things I want to learn:
+
+
+Notes that :
+-------
+ File is set of byte transfer to zeros and ones  until computer's process read it then using Unicode(utf-8) and ASCII code to encoding file and reading 
+
+the  ASCII code is subset from UTF_8 Unicode 
+so you must use appropriate encoding for encoding all the fills
