@@ -25,7 +25,7 @@ There are many **database management commands** that can be used to manage a dat
 
  I observed that there are main differences between the DROP and DELETE table SQL operations. When you use the DROP TABLE command, you remove a table with its data and associations from the database, while DELETE doesn't do the same thing. Therefore, you should be sure when you decide to use either command.
 
-# Things I want to learn:
+
       
 ********
 *********
@@ -38,4 +38,5 @@ There are many **database management commands** that can be used to manage a dat
 
  # Link to Bolt-Sql Gaming -screen shoot:
  [Link to Bolt-Sql Gaming -screen shoot](sqlbolt/boltsql.md)
+ # Things I want to know more about
 

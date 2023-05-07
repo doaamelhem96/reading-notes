@@ -9,4 +9,4 @@ In Python allows you to **handle and recover from errors or exceptional situatio
 
 3. The **finally block** is **optional** and is **used to specify code that will be executed regardless of whether an exception occurred or not**.
 *****
-# things I want to learn:
+# Things I want to know more about:

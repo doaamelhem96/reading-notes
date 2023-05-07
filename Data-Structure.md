@@ -26,4 +26,4 @@ To avoid an infinite recursive call stack, we can do the following:
  3.	Use tail recursion if possible: This means that the recursive call is the last statement in the function, so that the compiler can optimize the function to avoid using additional stack space for each recursive call. 
  4. Increase the stack size if needed: In some cases, the default stack size may not be enough to handle a particularly deep recursion. In these cases, the stack size can be increased to avoid a stack overflow error.
 **********
-# Things I want to learn:
+# Things I want to know more about

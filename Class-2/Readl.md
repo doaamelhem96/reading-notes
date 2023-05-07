@@ -19,4 +19,4 @@ This will print the first line of the file in line1 and the second line in line2
 ******
 **In summary, use the ***read***method when you want to read the entire content of a file as a ***single string***, and use the ***readline()*** method when you want to read the file ***line by line*** or selectively read specific lines.**
 *****
-# things I want to learn:
+# Things I want to know more about:
