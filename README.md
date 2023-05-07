@@ -10,7 +10,7 @@ This a reading-notes main page is a collection of notes and summaries for the va
 |Class 0|[Index-Reading](./Class-0/Indixing.md) |
 |Intro to Data -Structure|[Data -Structure](Data-Structure.md) |
 |Class 1|[Index-Reading](./Class-1/Indixing.md)|
-|Class 2|[Index-Reading](./Class-2/Indixing.md)|
+|Class 2|[Index-Reading](./Class-2//Indexing.md)|
 |Class 3||
 |Class 4||
 ***********
