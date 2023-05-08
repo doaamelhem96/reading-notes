@@ -7,11 +7,11 @@ This a reading-notes main page is a collection of notes and summaries for the va
 ****
 |Class |Reading-Notes|
 |---------|--------|
-|Class 0|[Index-Reading](./Class-0/Indixing.md) |
+|Class 0|[Intro to programming & python](./Class-0/Indixing.md) |
 |Intro to Data -Structure|[Data -Structure](Data-Structure.md) |
-|Class 1|[Index-Reading](./Class-1/Indixing.md)|
-|Class 2|[Index-Reading](./Class-2//Indexing.md)|
-|Class 3||
+|Class 1|[testing](./Class-1/Indixing.md)|
+|Class 2|[FIO](./Class-2//Indexing.md)|
+|Class 3|[oop](./class-3/Indixing.md)||
 |Class 4||
 ***********
 ## Pre-Courses 
