@@ -11,7 +11,7 @@ This a reading-notes main page is a collection of notes and summaries for the va
 |Intro to Data -Structure|[Data -Structure](Data-Structure.md) |
 |Class 1|[testing](./Class-1/Indixing.md)|
 |Class 2|[FIO](./Class-2//Indexing.md)|
-|Class 3|[oop](./class-3/Indixing.md)||
+|Class 3|[oop](./Class-3/Indixing.md)||
 |Class 4|[Data-Structure](./Class-4/# )|
 ***********
 ## Pre-Courses 
