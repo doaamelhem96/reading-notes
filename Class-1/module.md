@@ -40,6 +40,6 @@ _init_.py
 **To search for any module you can use:**
 **the name of module .path**
 ----
-# ## Things I want to know more about
+## Things I want to know more about
 
 

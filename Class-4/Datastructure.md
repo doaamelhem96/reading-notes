@@ -54,4 +54,4 @@ Sequential access: Accessing an element by index in a linked list requires trave
 Extra memory: Linked lists require extra memory to store the references to the next nodes.
 Lack of direct access: Unlike arrays, linked lists do not support direct access to arbitrary elements.
 Overall, linked lists are a versatile data structure that can be used in various scenarios. They are commonly used when frequent insertion and deletion operations are required, or when the size of the data structure needs to change dynamically.
-# things i want to learn
+## hings I want to know more about
