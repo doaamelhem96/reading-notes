@@ -14,6 +14,7 @@ This a reading-notes main page is a collection of notes and summaries for the va
 |Class 3|[oop](./Class-3/Indixing.md)||
 |Class 4|[Data-Structure](./Class-4/Datastructure.md )|
 |Class 5|[readingnotes](./Class-5/readme.md)|
+|Class 6|[Variables](./Class-6/notes.md)|
 ***********
 ## Pre-Courses 
 -------------------------
