@@ -77,3 +77,5 @@ probability = num_successes / num_trials
 print(probability)  # should be close to 1/6 (0.1666...)
 ```
 This code rolls a dice and returns a number between 1 and 6. We can then use a loop to roll the dice a large number of times and count the number of times we roll a 6. Finally, we divide the number of successes by the total number of trials to get the probability of rolling a 6.
+
+## things i want to know more about
