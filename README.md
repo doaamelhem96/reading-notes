@@ -16,6 +16,7 @@ This a reading-notes main page is a collection of notes and summaries for the va
 |Class 5|[readingnotes](./Class-5/readme.md)|
 |Class 6|[Variables](./Class-6/notes.md)|
 |Class 7|[Stacks and Queues](./Class-7/datastructure.md)|
+|Class 8|[TenThousand](./Class-8/Tenthousand.md)|
 ***********
 ## Pre-Courses 
 -------------------------
