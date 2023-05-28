@@ -18,6 +18,7 @@ This a reading-notes main page is a collection of notes and summaries for the va
 |Class 7|[Stacks and Queues](./Class-7/datastructure.md)|
 |Class 8|[TenThousand](./Class-8/Tenthousand.md)|
 |Class 9|[__method__](./Class-9/reading9.md)|
+|Class 9|[DataAnalysis](./Class-10/DataAnalysis.md)|
 ***********
 ## Pre-Courses 
 -------------------------
