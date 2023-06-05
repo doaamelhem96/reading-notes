@@ -21,6 +21,7 @@ This a reading-notes main page is a collection of notes and summaries for the va
 |Class 10|[DataAnalysis](./Class-10/DataAnalysis.md)|
 |Class 11|[Panadas](./Class-11/Pandas.md)|
 |Class 12|[Linear regression](./Class-12/Linear_regClas.md)|
+|Class 13|[Data Visualization](./Class-13/DataVisualization.md)|
 ***********
 ## Pre-Courses 
 -------------------------
