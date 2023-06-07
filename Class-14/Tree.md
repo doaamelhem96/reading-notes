@@ -1,26 +1,31 @@
 # Tree
-Teaching: Explaining Trees with an Analogy
 
-Imagine you are walking through a dense forest, filled with various types of trees. Each tree has a unique structure, with a trunk, branches, and leaves. Now, let's use this analogy to understand trees in computer science.
 
-In computer science, a tree is a hierarchical data structure that resembles an upside-down tree. It consists of nodes connected by edges, similar to branches connecting different parts of a tree. Here's how the analogy fits:
+A binary tree is a type of tree data structure in which each node can have at most two children: a left child and a right child. The children of a node are often referred to as its "left subtree" and "right subtree." The binary tree has a hierarchical structure where each node can have zero, one, or two child nodes.
 
-1. Root: Just like a real tree has a main trunk from which all branches originate, a tree in computer science has a root node. The root node is the topmost node and serves as the starting point for traversing the tree.
+Now let's break down the WHY, WHAT, HOW structure to understand binary trees:
 
-2. Nodes: The nodes in a tree are like the different parts of a tree, such as branches or leaves. Each node can have zero or more child nodes, representing the branching structure.
+WHY:
+Binary trees are widely used in computer science and data structures due to their simplicity and efficiency. They provide an organized way to store and retrieve data, and many algorithms and operations can be optimized using binary trees.
 
-3. Edges: The edges in a tree represent the connections between nodes, similar to branches connecting different parts of a tree.
+WHAT:
+A binary tree is composed of nodes, where each node contains a value and references to its left and right children (subtrees). The root node is the topmost node in the tree, and it serves as the entry point for accessing the tree. The leaf nodes are the nodes with no children. The path from the root to any leaf node forms a unique sequence of nodes and is called a "path."
 
-4. Leaf Nodes: In a real tree, leaves are the endpoints of the branches. In a computer science tree, leaf nodes are the nodes that do not have any children. They are the endpoints of the tree structure.
+HOW:
+To construct a binary tree, you start with the root node and add nodes sequentially. When adding a new node, you compare its value with the current node. If the value is smaller, you go to the left child, and if the value is larger, you go to the right child. This process is repeated recursively until a suitable position for the new node is found.
 
-Trees are commonly used in computer science for various purposes, such as representing hierarchical relationships, organizing data, or implementing algorithms like binary search trees or decision trees.
+To traverse a binary tree, there are several common methods:
 
-By using this analogy, you can visualize the structure and relationships in a tree data structure, making it easier to understand and work with in computer science.
+1. Inorder Traversal: Visit the left subtree, then the current node, and finally the right subtree. This traversal results in nodes being visited in ascending order if the tree represents a sorted sequence.
 
-Review and Comment on a Classmate's Learning:
+2. Preorder Traversal: Visit the current node, then the left subtree, and finally the right subtree. This traversal is useful for making copies of a tree or creating a prefix expression in expressions trees.
 
-One of my classmates learned how to create a bar plot using matplotlib. They successfully modified the code to plot a bar chart using the 'Age' and 'Total_Bilirubin' columns from their dataset. Their code is mostly correct, except for some syntax errors. I would suggest adding the `height` parameter to the `plt.bar()` function to specify the height of the bars. Additionally, it's important to provide appropriate labels and titles to make the plot more informative and meaningful.
+3. Postorder Traversal: Visit the left subtree, then the right subtree, and finally the current node. This traversal is often used in deleting nodes from a tree or evaluating postfix expressions.
 
-Keep up the good work! Creating bar plots can be an effective way to visualize data, and your understanding of how to use matplotlib for this purpose is commendable. Remember to pay attention to the syntax and consider adding necessary parameters to customize your plots further.
+Binary trees have various applications, such as binary search trees (BSTs), expression trees, Huffman coding, and more. They provide efficient searching, insertion, and deletion operations, making them fundamental in computer science and programming.
+
+
+
+
 
 ## things i want to know more about
