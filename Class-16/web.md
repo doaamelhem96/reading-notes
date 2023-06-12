@@ -19,3 +19,4 @@ Techniques to Avoid Getting Blocked While Scraping Websites:
 5. Implement Captcha Solving Mechanisms: Some websites employ CAPTCHA challenges to prevent automated scraping. To overcome this, you may need to implement mechanisms to automatically solve CAPTCHAs. There are third-party services and libraries available that can assist in solving CAPTCHAs programmatically.
 
 It's important to note that while these techniques can help mitigate the risk of getting blocked while scraping websites, it's essential to comply with the target website's terms of service and respect their data usage policies. Always ensure that you are scraping websites responsibly and ethically.
+## things i want to know more about
