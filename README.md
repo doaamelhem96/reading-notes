@@ -26,7 +26,8 @@ This a reading-notes main page is a collection of notes and summaries for the va
 |Class 15|[serverless](./Class-15/serverless.md)|
 |Class 16|[Scraping Static and Dynamic Websites](./Class-16/web.md)|
 |Class 26|[Django](./Class-26/Django.md)|
-|Class 26|[Django](./Class-27/Django2.md)|
+|Class 27|[Django](./Class-27/Django2.md)|
+|Class 28|[Django Models and Formes](./Class-28/forms.md)|
 ***********
 ## Pre-Courses 
 -------------------------
