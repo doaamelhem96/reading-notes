@@ -28,6 +28,7 @@ This a reading-notes main page is a collection of notes and summaries for the va
 |Class 26|[Django](./Class-26/Django.md)|
 |Class 27|[Django](./Class-27/Django2.md)|
 |Class 28|[Django Models and Formes](./Class-28/forms.md)|
+|Class 29|[Django Customer User](./Class-29/djcuser.md)|
 ***********
 ## Pre-Courses 
 -------------------------
