@@ -32,6 +32,7 @@ This a reading-notes main page is a collection of notes and summaries for the va
 |Class 30|[Hash Table](./Class-30/hash.md)|
 |Class 31|[Django REST Framework & Docker ](./Class-31/Docker.md)|
 |Class 32|[Permissions & Postgresql ](./Class-32/DRF.md)|
+|Class 33|[Authentication & Production Server ](./Class-33/json.md)|
 ***********
 ## Pre-Courses 
 -------------------------
