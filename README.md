@@ -7,17 +7,17 @@ This a reading-notes main page is a collection of notes and summaries for the va
 ****
 |Class |Reading-Notes|
 |---------|--------|
-|Class 0|[Intro to programming & python](./Class-0/Indixing.md) |
+|Class 0|[Intro to programming & python](./Class-00/Indixing.md) |
 |Intro to Data -Structure|[Data -Structure](Data-Structure.md) |
-|Class 1|[testing](./Class-1/Indixing.md)|
-|Class 2|[FIO](./Class-2//Indexing.md)|
-|Class 3|[oop](./Class-3/Indixing.md)||
-|Class 4|[Data-Structure](./Class-4/Datastructure.md )|
-|Class 5|[readingnotes](./Class-5/readme.md)|
-|Class 6|[Variables](./Class-6/notes.md)|
-|Class 7|[Stacks and Queues](./Class-7/datastructure.md)|
-|Class 8|[TenThousand](./Class-8/Tenthousand.md)|
-|Class 9|[__method__](./Class-9/reading9.md)|
+|Class 1|[testing](./Class-01/Indixing.md)|
+|Class 2|[FIO](./Class-02//Indexing.md)|
+|Class 3|[oop](./Class-03/Indixing.md)||
+|Class 4|[Data-Structure](./Class-04/Datastructure.md )|
+|Class 5|[readingnotes](./Class-05/readme.md)|
+|Class 6|[Variables](./Class-06/notes.md)|
+|Class 7|[Stacks and Queues](./Class-07/datastructure.md)|
+|Class 8|[TenThousand](./Class-08/Tenthousand.md)|
+|Class 9|[__method__](./Class-09/reading9.md)|
 |Class 10|[DataAnalysis](./Class-10/DataAnalysis.md)|
 |Class 11|[Panadas](./Class-11/Pandas.md)|
 |Class 12|[Linear regression](./Class-12/Linear_regClas.md)|
