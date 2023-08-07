@@ -1,5 +1,4 @@
-
-
+# Intro To Class-35
 **Whiteboard Advice Reading Assignment:**
 1. **Effective Communication:** It's crucial to communicate your thought process, clarify the problem, discuss potential solutions, and seek affirmation throughout the interview. Clear communication helps the interviewer understand your approach and thought process.
 
