@@ -35,6 +35,7 @@ This a reading-notes main page is a collection of notes and summaries for the va
 |Class 33|[Authentication & Production Server ](./Class-33/json.md)|
 |Class 34|[ API Deployment ](./Class-34/APIDeployment.md)|
 |Class 35|[Mock_Interview](./Class-35/MockInterview.md)|
+|Class 36|[Graph](./Class-36/Graph.md)|
 
 ***********
 ## Pre-Courses 
