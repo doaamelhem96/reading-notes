@@ -37,6 +37,7 @@ This a reading-notes main page is a collection of notes and summaries for the va
 |Class 35|[Mock_Interview](./Class-35/MockInterview.md)|
 |Class 36|[Graph](./Class-36/Graph.md)|
 |Class 37|[Dajngo](./Class-37/django.md)|
+|Class 38|[react](./Class-38/react.md)|
 
 ***********
 ## Pre-Courses 
