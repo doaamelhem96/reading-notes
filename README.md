@@ -39,6 +39,7 @@ This a reading-notes main page is a collection of notes and summaries for the va
 |Class 37|[Dajngo](./Class-37/django.md)|
 |Class 38|[react](./Class-38/react.md)|
 |Class 39|[react](./Class-39/react.md)|
+|Class 41|[react](./Class-41/Nextreact.md)|
 
 ***********
 ## Pre-Courses 
